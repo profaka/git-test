@@ -1,4 +1,4 @@
-public class practice {
+public class Practice {
     public static void main(String[] args) {
         System.out.println("hello world from practice");
         int a = 5;
